@@ -30,6 +30,9 @@ CookingSessions: Tracks user cooking activity.
 
 OrderDetails: Logs order history and ratings.
 
+![image](https://github.com/user-attachments/assets/85d04843-7bde-4cbb-a85e-0b9b0afb22c1)
+
+
 
 Steps:
 
@@ -37,12 +40,19 @@ Check for null values in all datasets.
 
 Replace missing values in the Rating column with the rounded mean.
 
-Standardize column names for consistency.
+Standardize column names for consistency. 
+
+![image](https://github.com/user-attachments/assets/4b58f439-29c5-4ec1-91f8-b50460354934)
+
 
 
 Merging Datasets
 
-All three datasets were merged using the User ID column as the primary key
+All three datasets were merged using the User ID column as the primary key.
+
+
+![image](https://github.com/user-attachments/assets/4279b597-a8c7-4977-af0c-c422708611d7)
+
 
 
 Analyzing Cooking Sessions and Orders
@@ -77,6 +87,16 @@ Plot cooking duration for each dish, segmented by Favorite Meal.
 Visualizations
 
 To enhance aesthetics, background styles were applied to visualizations using seaborn themes and matplotlib options.
+
+![image](https://github.com/user-attachments/assets/fd34913c-9020-43d4-9941-4c62e9d67f6e)
+
+Report:
+
+![image](https://github.com/user-attachments/assets/2909f1b7-24cc-425b-962c-155872f01830)
+
+Recommendation:
+![image](https://github.com/user-attachments/assets/44d1c982-6848-4e59-9413-3058f84b3dec)
+
 
 
 
