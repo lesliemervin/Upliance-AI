@@ -70,6 +70,9 @@ Group data by Dish Name and count the number of unique users who ordered each di
 
 Create a bar plot to visualize the most popular dishes.
 
+![image](https://github.com/user-attachments/assets/38a133b8-fe89-4f08-926b-b1471388fd8d)
+
+
 Exploring Demographic Factors
 
 Steps:
